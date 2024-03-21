@@ -1,0 +1,22 @@
+
+# method overriding(or) function overriding
+
+class ram:
+    def project(self):
+        print("car rental management system")
+
+class sam(ram):
+    def project(self):
+        super().project()
+        print("parmacy rental management system")
+
+class kumar(sam):
+    def project(self):
+        super().project()
+        print("real estate management system")
+
+obj= kumar()
+obj.project()
+
+
+    

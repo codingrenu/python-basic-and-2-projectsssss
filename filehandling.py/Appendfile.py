@@ -1,0 +1,5 @@
+f=open("myyfile.txt","a")
+f.write("\n")
+f.write("This is file Append concept....")
+print("File Append Successfully")
+f.close()

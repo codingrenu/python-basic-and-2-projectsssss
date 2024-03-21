@@ -1,0 +1,13 @@
+// data types can differ in four types
+
+1.....set.....    {}---not allow dulpicates .
+
+
+
+
+
+2....dictionary   {}---not allow dulpicates. 
+
+3.....tuple
+---allow dulpicates.
+4.....list
